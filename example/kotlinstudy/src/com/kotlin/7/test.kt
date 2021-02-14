@@ -3,8 +3,8 @@ package com.kotlin.`7`
 fun main(args : Array<String>){
    // var obj = Customer("코틀린")
     //println(obj)//해당 클래스의 주소 값을 볼 수 있다.
-    var obj2 = Customer2()
-    println(obj2.fullname)
+    //var obj2 = Customer2()
+    //println(obj2.fullname)
 }
 
 class Customer constructor(name : String){ //기본 생성자에 String 타입으로 입력을 받아야 함
