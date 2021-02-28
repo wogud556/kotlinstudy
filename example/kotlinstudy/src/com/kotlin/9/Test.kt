@@ -21,7 +21,7 @@ class Address2 {
 
 class Address3 {
 
-    val isEmpty: Boolean = false
+    val isEmpty: Boolean
         get() {return false}
 }
 /**
